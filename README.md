@@ -2,7 +2,7 @@ To create a README for your project, I will need some details about the project.
 
 ---
 
-# HTML-CSS Project 2
+# HTML-CSS Project 3
 
 ## Introduction
 This project demonstrates the use of HTML and CSS to create a responsive and visually appealing web page. The project showcases various HTML elements and CSS styling techniques to create a well-structured and aesthetically pleasing layout.
