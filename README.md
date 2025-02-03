@@ -1,7 +1,3 @@
-To create a README for your project, I will need some details about the project. Here is a draft based on the information I have:
-
----
-
 # HTML-CSS Project 3
 
 ## Introduction
