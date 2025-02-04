@@ -9,8 +9,8 @@ This project demonstrates the use of HTML and CSS to create a responsive and vis
 - Modern CSS styling techniques
 
 ## ScreenShot
--ScreenShot of project
-![Screenshot (8)](https://github.com/user-attachments/assets/53275508-7b2a-4dd8-b892-1fedfa23d08b)
+-ScreenShot of project !
+![Screenshot (8)](https://github.com/user-attachments/assets/b8dcf6c8-b161-4675-82a2-1a5bd0fc56a3)
 
 
 ## Usage
